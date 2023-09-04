@@ -11,7 +11,7 @@ public class HomeServiceImpl implements HomeService {
 
 	@Override
 	public String test() {
-		return "API call succesful";
+		return "Test API call succesful";
 	}
 	
 }

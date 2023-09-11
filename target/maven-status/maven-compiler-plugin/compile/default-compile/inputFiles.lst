@@ -1,0 +1,9 @@
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/common/constants/UrlMvcConstants.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/common/util/exception/GlobalExceptionHandler.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/home/service/HomeService.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/home/controller/HomeController.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/ApiPortfolioApplication.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/common/util/MessageUtils.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/common/constants/MessageConstants.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/home/service/impl/HomeServiceImpl.java
+/home/gerard/workspace/web/api-portfolio/src/main/java/com/gerardheredia/apiportfolio/common/util/ApiResponse.java

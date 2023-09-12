@@ -13,4 +13,7 @@ spring:
     init:
       mode: always
       schema-locations: 
-      - classpath:scripts/schema.sql
+      - classpath:scripts/schema.sql  
+  mvc:
+    servlet:
+      path: /
